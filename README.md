@@ -1,14 +1,17 @@
+# NHẬN DIỆN HÌNH HỌC VÀ CHỮ SỐ VIẾT TAY BẰNG MẠNG TÍCH CHẬP (CNN)
 
-# Nhận diện Hình học & Chữ số viết tay bằng CNN  
-**Môn học : xử lí ảnh**   
-**Thành viên** : 
-B22DCCN183 - Đặng Tiến Đạt 
-B22DCCN184 - Đỗ Thành Đạt 
-**Lớp:** D22CNPM02  
-**Nhóm:** 05
-**Giảng viên hướng dẫn:** Thầy Phạm Hoàng Việt  
-**Thời gian hoàn thành:** Tháng 12/2025
+**Môn học:**           Xử lý Ảnh  
+**Giảng viên hướng dẫn:**   Thầy Phạm Hoàng Việt  
+**Lớp:**              D22CNPM02  
+**Nhóm:**             05  
+**Thành viên thực hiện:**
 
+| MSSV       | Họ và tên           |
+|------------|---------------------|
+| B22DCCN183 | Đặng Tiến Đạt       |
+| B22DCCN184 | Đỗ Thành Đạt        |
+
+**Thời gian hoàn thành:** Tháng 11 năm 2025
 ---
 Tài liệu báo cáo chi tiết của nhóm em  : 
 https://docs.google.com/document/d/1o-N-TsbrvYr3C5MyQfOE02QHHdrGFqM-RbUQhIWiNUg/edit?tab=t.0
