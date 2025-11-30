@@ -1,8 +1,9 @@
 
 # Nhận diện Hình học & Chữ số viết tay bằng CNN  
-**Môn học : xử lí ảnh**  
-**Nhóm thực hiện:**  
-B22DCCN183 - Đặng Tiến Đạt  B22DCCN184 - Đỗ Thành Đạt 
+**Môn học : xử lí ảnh**   
+**Thành viên** : 
+B22DCCN183 - Đặng Tiến Đạt 
+B22DCCN184 - Đỗ Thành Đạt 
 **Lớp:** D22CNPM02  
 **Nhóm:** 05
 **Giảng viên hướng dẫn:** Thầy Phạm Hoàng Việt  
