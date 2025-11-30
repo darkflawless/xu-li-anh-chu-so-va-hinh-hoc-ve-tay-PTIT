@@ -1,12 +1,13 @@
 
 # Nhận diện Hình học & Chữ số viết tay bằng CNN  
-**Đồ án môn Nhập môn Học máy và Thị giác Máy tính**  
-**Sinh viên thực hiện:**  
-B22DCCN183 Đặng Tiến Đạt
-B22DCCN184 Đỗ Thành Đạt 
-**Lớp:** D22CNPM02
-**Giảng viên hướng dẫn:** thầy Phạm Hoàng Việt
+**Môn học : xử lí ảnh**  
+**Nhóm thực hiện:**  
+B22DCCN183 - Đặng Tiến Đạt  B22DCCN184 - Đỗ Thành Đạt  
+**Lớp:** D22CNPM02  
+**Giảng viên hướng dẫn:** Thầy Phạm Hoàng Việt  
+**Thời gian hoàn thành:** Tháng 12/2025
 
+---
 Tài liệu báo cáo chi tiết của nhóm em  : 
 https://docs.google.com/document/d/1o-N-TsbrvYr3C5MyQfOE02QHHdrGFqM-RbUQhIWiNUg/edit?tab=t.0
 
