@@ -1,9 +1,14 @@
 
 # Nhận diện Hình học & Chữ số viết tay bằng CNN  
 **Đồ án môn Nhập môn Học máy và Thị giác Máy tính**  
-**Sinh viên thực hiện:** [Tên bạn]  
-**Lớp:** [Lớp học phần]  
-**Giảng viên hướng dẫn:** [Tên thầy/cô]
+**Sinh viên thực hiện:**  
+B22DCCN183 Đặng Tiến Đạt
+B22DCCN184 Đỗ Thành Đạt 
+**Lớp:** D22CNPM02
+**Giảng viên hướng dẫn:** thầy Phạm Hoàng Việt
+
+Tài liệu báo cáo chi tiết của nhóm em  : 
+https://docs.google.com/document/d/1o-N-TsbrvYr3C5MyQfOE02QHHdrGFqM-RbUQhIWiNUg/edit?tab=t.0
 
 ---
 
@@ -33,10 +38,9 @@ Cả hai đều được huấn luyện từ đầu (from scratch) bằng Tensor
 | Nhận diện 4 hình học        | 4      | **99.44% – 99.90%**         | Đánh giá khoa học, biểu đồ đẹp, rất ổn định          |
 | Nhận diện chữ số 0-9        | 10     | **98.70% – 99.50%**         | Chịu được ảnh xoay 90°, 180°, 270° hoàn toàn         |
 
+
+
 ---
 
 ### 4. Cách chạy chương trình
-
-#### 4.1. Cài đặt môi trường
-```bash
-pip install -r requirements.txt
+ở cả hai folder là chuso và hinhhoc , chạy 2 file test.py để test mô hình 
